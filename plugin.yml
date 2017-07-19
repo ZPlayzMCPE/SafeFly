@@ -1,5 +1,5 @@
 name: SafeFly
-author: Sean_M
+author: Sean_M, updated by Zeao
 version: "1.0.0"
 api: [3.0.0-ALPHA5, 3.0.0-ALPHA6, 3.0.0, 3.0.1]
 description: Fly in survival without damaging players!
