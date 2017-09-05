@@ -3,7 +3,7 @@ Fly in survival without damaging players!
 
 
 ## UPDATED
-We have added support for more APIS. Check plugin.yml for more infomation.
+We have added support for more API'S. Check plugin.yml for more infomation.
 
 * Added API Support for: 3.0.0-ALPHA5, 3.0.0-ALPHA6, 3.0.0 (All versions of 3.0.0 ALPHAs) and 3.0.1.
 
